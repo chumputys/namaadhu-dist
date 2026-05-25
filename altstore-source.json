@@ -21,9 +21,9 @@
           "version": "1.1-beta",
           "buildVersion": "1",
           "date": "2026-05-25",
-          "localizedDescription": "Multi-country support (Maldives + Malaysia), JSON-backed data layer, Dhivehi localization for all locations.",
+          "localizedDescription": "Redesigned onboarding flow, merged welcome/language screen with app icon, prayer tracker intro, manual location picker, and a refreshed About page with credits. RTL fixes throughout.",
           "downloadURL": "https://github.com/chumputys/namaadhu-dist/releases/download/v1.1-beta/Namaadhu.ipa",
-          "size": 6300626,
+          "size": 6603662,
           "minOSVersion": "26.0"
         }
       ],
