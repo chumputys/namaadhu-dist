@@ -1,0 +1,39 @@
+{
+  "name": "Namaadhu",
+  "subtitle": "Maldives prayer times",
+  "description": "Accurate Maldivian prayer times, Qibla compass, and prayer tracker.",
+  "iconURL": "https://raw.githubusercontent.com/chumputys/namaadhu-dist/main/icon.png",
+  "tintColor": "#1E8E6B",
+  "website": "https://github.com/chumputys/namaadhu-dist",
+  "apps": [
+    {
+      "name": "Namaadhu",
+      "bundleIdentifier": "com.chumputy.Namaadhu",
+      "developerName": "Ubaidulla Ali",
+      "subtitle": "Maldives prayer times, Qibla & tracker",
+      "localizedDescription": "Namaadhu shows accurate prayer times for every island in the Maldives, with exact-time notifications, a Qibla compass, a daily prayer tracker, and Dhivehi/English support. Anchored to Maldives time wherever you are.",
+      "iconURL": "https://raw.githubusercontent.com/chumputys/namaadhu-dist/main/icon.png",
+      "tintColor": "#1E8E6B",
+      "category": "lifestyle",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-05-25",
+          "localizedDescription": "Initial release: prayer times, notifications, Qibla, tracker, widgets.",
+          "downloadURL": "https://github.com/chumputys/namaadhu-dist/releases/download/v1.0/Namaadhu.ipa",
+          "size": 6261057,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "We need your location to automatically detect your nearest island and provide accurate prayer times for your area."
+        }
+      }
+    }
+  ],
+  "news": []
+}
