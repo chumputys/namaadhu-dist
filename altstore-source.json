@@ -21,9 +21,9 @@
           "version": "1.1-beta",
           "buildVersion": "1",
           "date": "2026-05-25",
-          "localizedDescription": "Redesigned onboarding flow, merged welcome/language screen with app icon, prayer tracker intro, manual location picker, and a refreshed About page with credits. RTL fixes throughout.",
+          "localizedDescription": "Malaysia (JAKIM) prayer times: Kuala Lumpur & Putrajaya plus Selangor zones now use official multi-point reference coordinates with JAKIM ihtiyat adjustments, calibrated to the published tables. Separate Syuruk reference point. Maldives and other locations unchanged.",
           "downloadURL": "https://github.com/chumputys/namaadhu-dist/releases/download/v1.1-beta/Namaadhu.ipa",
-          "size": 6603662,
+          "size": 6617294,
           "minOSVersion": "26.0"
         }
       ],
