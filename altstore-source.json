@@ -18,7 +18,7 @@
       "screenshots": [],
       "versions": [
         {
-          "version": "1.0-beta",
+          "version": "1.0",
           "buildVersion": "1",
           "date": "2026-05-25",
           "localizedDescription": "Multi-country support (Maldives + Malaysia), JSON-backed data layer, Dhivehi localization for all locations.",
