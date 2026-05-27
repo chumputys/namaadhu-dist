@@ -19,6 +19,15 @@
       "versions": [
         {
           "version": "1.1-beta",
+          "buildVersion": "3",
+          "date": "2026-05-27",
+          "localizedDescription": "Battery optimization, HTTP data fetch, prayer tracker guide, muted future prayers, AltStore automation, icon update",
+          "downloadURL": "https://github.com/chumputys/namaadhu-dist/releases/download/v1.1-beta-b3/Namaadhu.ipa",
+          "size": 6340873,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.1-beta",
           "buildVersion": "1",
           "date": "2026-05-25",
           "localizedDescription": "Initial beta release. Accurate prayer times for the Maldives and Malaysia using each country's official calculation method, exact-time notifications, a Qibla compass, a daily prayer tracker, and full Dhivehi/English support.",
