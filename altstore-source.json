@@ -19,6 +19,15 @@
       "versions": [
         {
           "version": "1.1-beta",
+          "buildVersion": "7",
+          "date": "2026-05-29",
+          "localizedDescription": "Fix dhivehi date formating issue",
+          "downloadURL": "https://github.com/chumputys/namaadhu-dist/releases/download/v1.1-beta-b7/Namaadhu.ipa",
+          "size": 6467521,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.1-beta",
           "buildVersion": "6",
           "date": "2026-05-29",
           "localizedDescription": "Maldives islands data populated for almost all islands.",
