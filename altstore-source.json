@@ -19,6 +19,15 @@
       "versions": [
         {
           "version": "1.1-beta",
+          "buildVersion": "6",
+          "date": "2026-05-29",
+          "localizedDescription": "Maldives islands data populated for almost all islands.",
+          "downloadURL": "https://github.com/chumputys/namaadhu-dist/releases/download/v1.1-beta-b6/Namaadhu.ipa",
+          "size": 6467471,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.1-beta",
           "buildVersion": "5",
           "date": "2026-05-29",
           "localizedDescription": "Immersive animated prayer hero with full-screen opener; refined Dhivehi wording",
